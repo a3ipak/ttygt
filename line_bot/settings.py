@@ -127,18 +127,18 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 ###################################################################
 ### Line
 # Channel Access Token
-LINE_CHANNEL_ACCESS_TOKEN = '5sH8WsGBJuIvQuKgIw1rtZe/ws6MIuHw1+bLpzkWecATYQfrb3rnDJSeofWnN/0fHSHlPAnBKCt4qqGhlFlpmpQOmQtUidZ3SK8GTmF0wThATC/lyMer2P9pM6UtBxp4Q+LoOoTqlAzk7WpTbHg7JgdB04t89/1O/w1cDnyilFU='
+LINE_CHANNEL_ACCESS_TOKEN = 'qliuwerfhekrG$#%Yalkfoiuw@#T@TG'
 # Channel Secret
-LINE_CHANNEL_SECRET = '72f3f200b0d13cee5da0cb62cc99c0fd'
-YOUR_USER_ID = 'U5f0f74171c4e73bfa16bfeee05816b51'
+LINE_CHANNEL_SECRET = 'nsvhoiahsiorht82457023rjlkwef'
+YOUR_USER_ID = 'vaishlfh2o34i572983709fldsjk'
 
 ### Cloudinary
-CLOUD_NAME = 'hiwl8m9j5'
-CLOUD_API_KEY = '689586839237535'
-CLOUD_API_SECRET = '1_ZqKgK0H0F6FTnh0hdV2M0WjCc'
+CLOUD_NAME = 'fjaij342f'
+CLOUD_API_KEY = '302875910286'
+CLOUD_API_SECRET = 'lcehrvNEAIVHALEIVaowhefjownvk'
 
 # OPENAI ChatGPT
-CHATGPT_API_KEY = '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'
+CHATGPT_API_KEY = 'cisdhchwhvowihvWRIGHAO'
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'tmp')
 ###################################################################
